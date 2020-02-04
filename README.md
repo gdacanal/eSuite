@@ -1,13 +1,13 @@
 # #########################################
 # eSuite 1.04
-Pablo Salinas Cortés - licensed under LGPL
+Pablo Salinas Cortés - licensed under LGPL.
 This is a clone repository from source, just for backup. The last update was 7 years old! (since Apr 2013)...
 # #########################################
 Original files were downloaded from files from:
 https://code.google.com/archive/p/engineeringsuite/
 Notes:
-*required library: Java Runtime Environment 1.5.0
-*Windows installation: run "eSuite_1.04.exe" as administrator
+*Required library: Java Runtime Environment 1.5.0.
+*Windows installation: run "eSuite_1.04.exe" as administrator.
 # #########################################
 
 Descriprion:
